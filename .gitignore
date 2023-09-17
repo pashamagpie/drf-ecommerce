@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+*.DS_Store
+env/
+pip-log.txt
+celerybeat-schedule
+.pytest_cache
